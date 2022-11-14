@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+  }
+
+main {
+
+    display: flex;
+    display: wrap;
+    padding: 0%;
+    margin: 0%;
+    /* width: 100%; */
+    /* justify-content: left; */
+}
